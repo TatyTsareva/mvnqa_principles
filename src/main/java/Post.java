@@ -6,5 +6,5 @@ public class Post {
     public String surname;
     public boolean subscription;
     public FormDate birthday;
-    }
+}
 
